@@ -31,14 +31,19 @@ Este é um sistema web desenvolvido para a disciplina de **Linguagem de Programa
 
 ## 📁 Estrutura do Projeto
 
-$TREE
+```
+├── contador-valores
+│   ├── assets/
+│   │   └── screenshot.png
+│   ├── public/
+│   │   └── index.html
+│   ├── .gitignore
+│   ├── contador.json
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.js
 
-contador-valores/
-├── public/
-│ └── index.html # Interface do usuário
-├── contador.json # Arquivo com os dados persistentes
-├── server.js # Backend com Node.js + Express
-├── package.json # Dependências e configurações do projeto
+```
 
 ---
 
