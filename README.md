@@ -31,6 +31,8 @@ Este é um sistema web desenvolvido para a disciplina de **Linguagem de Programa
 
 ## 📁 Estrutura do Projeto
 
+$TREE
+
 contador-valores/
 ├── public/
 │ └── index.html # Interface do usuário
